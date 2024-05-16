@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: Scenario: If User want to relogin We can use this page
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 0.016 s <<< FAILURE! - in Scenario: If User want to relogin We can use this page
+Then user can click- "Click here to login again" And it will navigate to index page that is Login page.(Scenario: If User want to relogin We can use this page)  Time elapsed: 0.011 s  <<< ERROR!
+cucumber.api.PendingException: TODO: implement me
+
+Scenario: If User want to relogin We can use this page  Time elapsed: 0 s  <<< ERROR!
+cucumber.api.PendingException: TODO: implement me
+

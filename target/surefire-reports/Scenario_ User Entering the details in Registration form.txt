@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Scenario: User Entering the details in Registration form
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.568 s - in Scenario: User Entering the details in Registration form
